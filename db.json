@@ -25,5 +25,15 @@
       "isTurnedOn": true,
       "powerConsumption": 25
     }
+  ],
+  "SmartOutlet": [
+    {
+      "type": "temperatureSensor",
+      "id": "xxx5d3ff237",
+      "name": "Czujnik temperatury",
+      "connectionState": "connected",
+      "isTurnedOn": true,
+      "powerConsumption": 25
+    }
   ]
 }
