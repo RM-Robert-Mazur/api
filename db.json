@@ -4,6 +4,26 @@
       "type": "bulb",
       "id": "7b23a2c0",
       "name": "Żarówka w pokoju",
+      "connectionState": "connected"
+    },
+    {
+      "type": "temperatureSensor",
+      "id": "29c15238",
+      "name": "Czujnik temperatury 2",
+      "connectionState": "disconnected"
+    },
+    {
+      "type": "outlet",
+      "id": "7c15256",
+      "name": "Gniazdko elektryczne",
+      "connectionState": "poorConnection"
+    }
+  ],
+  "SmartDeviceDetails": [
+    {
+      "type": "bulb",
+      "id": "7b23a2c0",
+      "name": "Żarówka w pokoju",
       "connectionState": "connected",
       "isTurnedOn": true,
       "brightness": 100,
@@ -19,19 +39,9 @@
     },
     {
       "type": "outlet",
-      "id": "3fdasf02",
-      "name": "Czujnik temperatury",
-      "connectionState": "connected",
-      "isTurnedOn": true,
-      "powerConsumption": 25
-    }
-  ],
-  "SmartOutlet": [
-    {
-      "type": "temperatureSensor",
-      "id": "xxx5d3ff237",
-      "name": "Czujnik temperatury",
-      "connectionState": "connected",
+      "id": "7c15256",
+      "name": "Gniazdko elektryczne",
+      "connectionState": "poorConnection",
       "isTurnedOn": true,
       "powerConsumption": 25
     }
